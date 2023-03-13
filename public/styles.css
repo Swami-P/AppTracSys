@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    padding: 15px 100px;
+    border-bottom: 1px solid gray;
+}
+
+.form{
+    padding: 2.5rem;
+    margin: auto;
+    width: 50%;
+    text-align: left;
+}
+
+.form h2{
+    margin-bottom: 2rem;
+}
+
+.form input{
+    padding: .8rem;
+    text-align: left;
+    width: 40rem;
+    border-radius: .3rem;
+    border: 1px gray solid;
+    
+}
+
+.input-style{
+    padding: .8rem;
+    text-align: left;
+    width: 10rem;
+    border-radius: .3rem;
+    border: 1px gray solid;
+}
+
+.label-style{
+    text-align: left;
+    margin-top: 1.5rem;
+}
+
+label span{
+    color: red;
+}
+
+.phone-style{
+    text-align: left; 
+}
+
+div.react-tel-input input.form-control {
+    width: 20rem;
+    font-size: .9rem;
+    color: black;
+    
+}
+
+div.react-tel-input input.form-control:focus {
+    outline:1px solid black;
+    box-shadow: none;
+}
+
+.country-style{
+    padding: .8rem;
+    text-align: left;
+    width: 25rem;
+    border-radius: .3rem;
+    border: 1px gray solid;
+}
+
+.tleft{
+    text-align: left; 
+}
+
+.box-style {
+    padding: .8rem;
+    text-align: left;
+    width: 15rem;
+    border-radius: .3rem;
+    background-color: white;
+  }
+
+  .salary-input{
+    width: 12rem;
+    margin-right: .2rem;
+  }
+
+  .button-style{
+    padding: .7rem;
+    text-align: center;
+    width: 8rem;
+    border-radius: .3rem;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    margin: 1.5rem .2rem;
+  }
+
